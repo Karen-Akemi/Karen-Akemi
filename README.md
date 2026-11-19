@@ -13,7 +13,7 @@ Estudante de **Data Science na FIAP** (conclusão em dez/2026), com foco em **an
 | [**Caminho dos Direitos**](https://github.com/Karen-Akemi/Caminho_dos_direitos) | App para agentes de saúde e assistentes sociais + painel de monitoramento que mostram quem está sem documento ou benefício social, onde, e o que fazer primeiro nos 96 distritos de São Paulo. *Líder da equipe.* | Power BI · Python · Azure · Modelagem de dados · IA |
 | [**FlowGuard**](https://github.com/Karen-Akemi/FlowGuard) | Plataforma de AIOps que prevê o volume de incidentes da Locaweb (D+1/D+7) e o risco de quebra de OLA, a partir de 122 mil incidentes. *Líder da equipe.* | Python · scikit-learn · Power BI · DAX · FastAPI · Azure |
 | [**MyRoute**](https://github.com/Karen-Akemi/MyRoute) | Pipeline automatizado que segmenta clientes, calcula score de fidelidade e prevê a próxima viagem. | Apache Airflow · Docker · PostgreSQL · pandas |
-| [**Pipeline Queimadas INPE**](https://github.com/Karen-Akemi/QueimadasINPE) | Pipeline Medallion (Bronze → Silver → Gold) com os focos de queimadas do INPE, com infraestrutura como código. | Databricks · PySpark · Terraform · Azure MySQL |
+| [**Pipeline Queimadas INPE**](https://github.com/Karen-Akemi/pipeline-queimadas-databricks) | Pipeline Medallion (Bronze → Silver → Gold) com os focos de queimadas do INPE, com infraestrutura como código. | Databricks · PySpark · Terraform · Azure MySQL |
 
 ---
 
@@ -35,4 +35,4 @@ FIAP, Nível Ouro: Análise e Visualização de Dados (2026) · Arquitetura de A
 
 ### 📫 Contato
 
-karen.oliveira2468@gmail.com
+[LinkedIn](https://www.linkedin.com/in/karen-akemi-de-oliveira-8ab495353) · karen.oliveira2468@gmail.com
