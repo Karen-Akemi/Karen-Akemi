@@ -1,4 +1,4 @@
-### Olá, sou a Karen 👋
+### Oi, meu nome é Karen
 
 Estudante de **Data Science na FIAP** (conclusão em dez/2026), com foco em **análise de dados, Business Intelligence e inteligência de mercado**. Gosto de transformar dados em decisões: do tratamento e modelagem até o dashboard e a apresentação para quem decide.
 
